@@ -1,4 +1,6 @@
-# Jeu de dames ## consigne
+# Jeu de dames 
+
+## Consigne
 Un jeu de dames en mode console. Règles standard (https://fr.wikipedia.org/wiki/Dames). Le jeu pourra être à un joueur (contre une IA qui sera des mouvements aléatoires respectant les règles!) ou deux joueurs. 
 
 Particularités : un nouveau fichier .txt sera généré à chaque partie, enregistrant tous les mouvements(Case départ et case arrivée), ainsi que l'état final du plateau. La façon dont les mouvements sont demandés au joueur est libre.
